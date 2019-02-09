@@ -72,9 +72,12 @@ var l_bgImageMapBased = true;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"nedlasti.jpg",
-	"nedlastin.jpg",
-	"nedlasting.jpg",
+	"859561.jpg",
+	"181379.jpg",
+	"181380.jpg",
+	"181381.jpg",
+	"181383.jpg",
+	"859561.jpg",
 ];
 
 // (Image-background only)
@@ -102,11 +105,11 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
