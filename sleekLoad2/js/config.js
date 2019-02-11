@@ -14,7 +14,7 @@ var l_serverImage = "Untitled.png";
 
 // Center logo?
 // 'true' or 'false'
-var l_centerLogo = true;
+var l_centerLogo = false;
 
 // Display current map and gamemode?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Warlord Gaming";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -101,7 +101,7 @@ var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 50;
+var l_bgDarkening = 75;
 
 // Play music during the loading screen?
 // 'true' or 'false'
