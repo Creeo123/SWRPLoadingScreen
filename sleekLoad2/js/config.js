@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "IMG_1549790013305_none_discord.png";
 
 // Center logo?
 // 'true' or 'false'
