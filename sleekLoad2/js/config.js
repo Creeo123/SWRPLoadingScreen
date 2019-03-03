@@ -72,12 +72,11 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"859561.jpg",
-	"181379.jpg",
-	"181380.jpg",
-	"181381.jpg",
-	"181383.jpg",
-	"859561.jpg",
+	"701604064_preview_ttt.jpg",
+	"181378.jpg",
+	"887642237_preview_maxresdefault.jpg",
+	"thumb-1920-582723.jpg",
+	"vzdT5.jpg",
 ];
 
 // (Image-background only)
@@ -88,7 +87,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 5000;
+var l_bgImageDuration = 3000;
 
 // (Image-background only)
 // Image background fade velocity
