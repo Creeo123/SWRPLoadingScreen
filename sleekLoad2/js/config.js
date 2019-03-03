@@ -135,7 +135,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Be sure to leave feedback to the staff of Warlord Gaming!",
+	"Be sure to leave feedback to the staff of Knight Templar Networks!",
 ];
 
 // Random message order?
